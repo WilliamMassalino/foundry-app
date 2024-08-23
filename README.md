@@ -22,7 +22,7 @@ To get started with the project, follow the steps below:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/WilliamMassalino/foundry-app
+   git clone https://github.com/WilliamMassalino/foundry-app.git
    cd foundry-app
    
 2. **Set Up Foundry:** Ensure that Foundry is installed on your machine. If not, you can install it by following the [Foundry installation guide](https://book.getfoundry.sh/getting-started/installation.html).
